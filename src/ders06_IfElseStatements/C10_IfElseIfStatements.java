@@ -8,7 +8,7 @@ public class C10_IfElseIfStatements {
         // Cinsiyet ve yasini dikkate alarak
         // “Emekli olabilirsin” veya “Emekli olmak icin .. Yil daha calisman gerekir” yazdirin.
 
-        char cinsiyet='k';
+        char cinsiyet='K';
         int yas= 60;
 
         if (cinsiyet=='E' && yas>=65){
